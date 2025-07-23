@@ -12,7 +12,7 @@ This project uses an AI-powered image recognition system trained with the Jetson
 
 1. Download both my Jetson-Infrence folder and Rock-Ai-Web and put them both on the root of your Jetson after connecting with VScode.
 2. Open a new terminal, make sure you are on bash.
-3. Run this: pip3 install numpy==1.24.4 (your numpy installed automatically is too new for the system to use.)
+3. Run "pip3 install numpy==1.24.4" (your numpy installed automatically is too new for the system to use.)
 4. Run "python3 app.py"
 5. Open the link to the WebUI in your browser, which will usually pop up on the bottom right of the screen.
 6. Download the file SampleImages to your computer.
